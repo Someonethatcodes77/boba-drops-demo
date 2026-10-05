@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    
+}
+h1{
+    font-size: 100px;
+    color: orangered;
+    outline: 10px;
+    
+}
+button{
+    color: orangered;
+    border-color: orange;
+    height: 50px;
+    width: 200px;
+    text-size-adjust: 50px;
+}
